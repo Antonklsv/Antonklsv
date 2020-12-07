@@ -1,6 +1,10 @@
 # I am going to become a Web Developer.
 
+<p><img align="center" src="background.jpg"/></p> 
+
 ## After some searches on the web, I have started to learn web development from the freeCodeCamp <https://www.freecodecamp.org>
+
+
 <!--
 **Antonklsv/Antonklsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- h1 h2 h3 h4 h5 h6 h7 h8 br b i strong em a pre code img tt div ins del sup sub p ol ul table thead tbody tfoot blockquote dl dt dd kbd q samp var hr ruby rt rp li tr td th s strike summary details caption figure figcaption abbr bdo cite dfn mark small span time wbr -->

@@ -1,6 +1,6 @@
-#I am going to become a Web Developer.
+# I am going to become a Web Developer.
 
-After some searches on the web, I have started to learn web development from the freeCodeCamp (https://www.freecodecamp.org)
+## After some searches on the web, I have started to learn web development from the freeCodeCamp <https://www.freecodecamp.org>
 <!--
 **Antonklsv/Antonklsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

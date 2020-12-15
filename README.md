@@ -1,9 +1,23 @@
 # I am going to become a Web Developer.
 
-<p><img align="center" src="background.jpg"/></p> 
+![background](background.jpg)
 
-## After some searches on the web, I have started to learn web development from the freeCodeCamp <https://www.freecodecamp.org>
+## After some searches on the web, I have started to study web development from the [freeCodeCamp](https://www.freecodecamp.org)
 
+## At the same time, I am learning several technologies and tools.
+
+## I am publishing my progress in two ways:
+
+* formal - via repository project board (a project board and issues);
+* informal - via my site on GitHub Pages (a blog and demos);
+
+## Repositories:
+
+* **[Antonklsv](https://github.com/Antonklsv/Antonklsv)** - main repository (this one);
+* **[Antonklsv.github.io](https://github.com/Antonklsv/Antonklsv.github.io)** - my site on GitHub Pages;
+* **[fcc-html-css](https://github.com/Antonklsv/fcc-html-css)** - freeCodeCamp html/css certification, the progress of the leaning and practic (micro projects);
+* **[fcc-js](https://github.com/Antonklsv/fcc-js)** - freeCodeCamp javascript certification, the progress of the leaning and practic (micro projects);
+* **[common](https://github.com/Antonklsv/common)** - web technologies and developer's tools, the progress of the learning and practics;
 
 <!--
 **Antonklsv/Antonklsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

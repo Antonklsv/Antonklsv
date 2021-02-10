@@ -15,7 +15,7 @@
 
 * **[Antonklsv](https://github.com/Antonklsv/Antonklsv)** - main repository (this one);
 * **[Antonklsv.github.io](https://github.com/Antonklsv/Antonklsv.github.io)** - my site on GitHub Pages;
-* **[fcc-html-css](https://github.com/Antonklsv/fcc-html-css)** - freeCodeCamp html/css certification, the progress of the leaning and practic (micro projects);
+* **[fcc-cert](https://github.com/Antonklsv/fcc-cert.git)** - freeCodeCamp html/css certification, the progress of the leaning and practic (micro projects);
 
 
 <!--

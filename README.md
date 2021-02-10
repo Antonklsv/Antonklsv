@@ -16,8 +16,7 @@
 * **[Antonklsv](https://github.com/Antonklsv/Antonklsv)** - main repository (this one);
 * **[Antonklsv.github.io](https://github.com/Antonklsv/Antonklsv.github.io)** - my site on GitHub Pages;
 * **[fcc-html-css](https://github.com/Antonklsv/fcc-html-css)** - freeCodeCamp html/css certification, the progress of the leaning and practic (micro projects);
-* **[fcc-js](https://github.com/Antonklsv/fcc-js)** - freeCodeCamp javascript certification, the progress of the leaning and practic (micro projects);
-* **[common](https://github.com/Antonklsv/common)** - web technologies and developer's tools, the progress of the learning and practics;
+
 
 <!--
 **Antonklsv/Antonklsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
